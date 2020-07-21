@@ -4,7 +4,7 @@ import java.util.*;
 
 public class BinarySearchTree {
 
-    public static int getHeight(Node root) {
+  /*  public static int getHeight(Node root) {
         int heightLeft = 0;
         int heightRight = 0;
 
@@ -44,5 +44,5 @@ public class BinarySearchTree {
         }
         int height = getHeight(root);
         System.out.println(height);
-    }
+    }*/
 }
